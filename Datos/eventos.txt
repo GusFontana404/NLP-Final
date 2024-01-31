@@ -1,0 +1,337 @@
+Id,Evento,Fecha
+0,Tratado de Rapallo,16 Abr 1922
+1,Tratado de Berlín,24 Abr 1926
+2,Incidente de Jinan,3 May 1928
+3,Segunda Conferencia Naval de Londres,21 Ene 1930 - 22 Abr 1930
+4,Guerras de Xinjiang,20 Feb 1931 - 30 Oct 1937
+5,Incidente de Mukden,18 Sep 1931 - 19 Sep 1931
+6,Batalla de Qiqihar,4 Nov 1931 - 18 Nov 1931
+7,Batalla de Jinzhou,21 Dic 1931 - 3 Ene 1932
+8,Batalla de Harbin y Establecimiento de Manchukuo,25 Ene 1932 - 4 Feb 1932
+9,Primera Batalla de Shanghái,28 Ene 1932 - 8 Mar 1932
+10,Primera Batalla de Hebei,1 Ene 1933 - 22 May 1933
+11,El Incendio del Reichstag,27 Feb 1933
+12,Pacto Balcánico,9 Feb 1934
+13,Rechazo de Japón al Tratado de Washington,19 Dic 1934
+14,Acuerdo Naval Anglo-Alemán,18 Jun 1935
+15,Invasión de Abisinia,3 Oct 1935 - 5 May 1936
+16,Tercera Conferencia Naval de Londres,9 Dic 1935 - 25 Mar 1936
+17,Pacto Hoare-Laval,10 Dic 1935
+18,Remilitarización de Renania,7 Mar 1936
+19,Incidente de Tauran,11 Mar 1936
+20,Guerra Civil Española,17 Jul 1936 - 4 Abr 1939
+21,Batalla de Suiyuan,20 Oct 1936 - 17 Nov 1936
+22,Pacto Anti-Komintern,25 Nov 1936
+23,Incidente de Xi'an,12 Dic 1936 - 24 Dic 1936
+24,Incidente del Puente Lugou y Segunda Batalla de Hebei,7 Jul 1937 - 8 Ago 1937
+25,Batalla de Chahar,1 Ago 1937 - 12 Ago 1937
+26,Operaciones Ferroviarias Beiping-Hankou y Tianjin-Pukou,1 Ago 1937 - 31 Dic 1937
+27,Segunda Batalla de Shanghái,13 Ago 1937 - 9 Nov 1937
+28,"Bombardeo de Shanghái, Chongqing y otras Ciudades",15 Ago 1937 - 23 Ago 1943
+29,Batalla de Shanxi,1 Sep 1937 - 11 Nov 1937
+30,Conferencia de Hossbach,5 Nov 1937
+31,Batalla de Nankín y Violación de Nankín,9 Dic 1937 - 31 Ene 1938
+32,Ruta de Birmania y el Hump,1 Ene 1938 - 10 Nov 1945
+33,Campaña de Henan,7 Feb 1938 - 10 Jun 1938
+34,Anexión de Austria,12 Mar 1938 - 10 Abr 1938
+35,Encuentro en el Paso de Brennero,18 Mar 1938
+36,Batalla de Xuzhou,24 Mar 1938 - 1 May 1938
+37,Batalla de Xiamen,10 May 1938 - 12 May 1938
+38,Batalla de Wuhan,11 Jun 1938 - 27 Oct 1938
+39,Batalla del Lago Khasan,29 Jul 1938 - 11 Ago 1938
+40,Conferencia de Múnich y Anexión de los Sudetes,29 Sep 1938 - 10 Oct 1938
+41,Operación Guangdong,12 Oct 1938 - 31 Dic 1938
+42,Crisis de Danzig,24 Oct 1938 - 29 Ago 1939
+43,Primera Arbitraje de Viena,2 Nov 1938
+44,Kristallnacht,9 Nov 1938 - 11 Nov 1938
+45,Batalla de Hainan,9 Feb 1939 - 12 Feb 1939
+46,Desmembramiento de Checoslovaquia,14 Mar 1939 - 17 Mar 1939
+47,Batalla de Nanchang,17 Mar 1939 - 9 May 1939
+48,Anexión de Klaipeda,22 Mar 1939
+49,Guerra Eslovaco-Húngara,23 Mar 1939 - 31 Mar 1939
+50,Invasión de Albania,7 Abr 1939 - 12 Abr 1939
+51,Batalla de Suixian-Zaoyang,20 Abr 1939 - 24 May 1939
+52,Batalla de Khalkhin Gol,11 May 1939 - 31 Ago 1939
+53,Pacto de Acero,22 May 1939
+54,Incidente de Tianjin,14 Jun 1939 - 20 Ago 1939
+55,Gira de Churchill por la Línea Maginot,16 Ago 1939
+56,Pacto Molotov-Ribbentrop,23 Ago 1939
+57,Pacto de Defensa Común Polaco-Británico,25 Ago 1939
+58,Operación Pekín,29 Ago 1939 - 1 Sep 1939
+59,Invasión de Polonia,1 Sep 1939 - 6 Oct 1939
+60,Inicio de la Segunda Guerra Mundial,1 Sep 1939
+61,Declaración de Guerra del Reino Unido y Francia a Alemania,3 Sep 1939
+62,Batalla del Río Bzura,9 Sep 1939 - 19 Sep 1939
+63,Invasión Soviética de Polonia,17 Sep 1939 - 6 Oct 1939
+64,Batalla de Changsha,14 Sep 1939 - 6 Oct 1939
+65,Batalla de la Línea Mannerheim,1 Dic 1939 - 13 Mar 1940
+66,Incidente del Paso de Zhongtiao,8 May 1940
+67,Incidente del Puente Marco Polo,11 May 1940 - 12 May 1940
+68,Batalla de las Ardenas,10 May 1940 - 25 May 1940
+69,Operación Weserübung,9 Abr 1940 - 10 Jun 1940
+70,Invasión de Dinamarca y Noruega,9 Abr 1940 - 10 Jun 1940
+71,Batalla de Narvik,9 Abr 1940 - 8 Jun 1940
+72,Evacuación de Dunkerque,26 May 1940 - 4 Jun 1940
+73,Armisticio de Compiègne,22 Jun 1940
+74,Anexión de Lituania,15 Jun 1940
+75,Invasión de la Unión Soviética,22 Jun 1941 - 5 Dic 1941
+76,Batalla de Smolensk,10 Jul 1941 - 10 Sep 1941
+77,Sitio de Leningrado,8 Sep 1941 - 27 Ene 1944
+78,Operación Barbarroja,22 Jun 1941 - 5 Dic 1941
+79,Pacto de Neutralidad Japón-Soviético,13 Abr 1941
+80,Batalla de Creta,20 May 1941 - 1 Jun 1941
+81,Batalla de Sirte,17 Dic 1941
+82,Batalla de Moscú,2 Oct 1941 - 7 Abr 1942
+83,Conferencia de Arcadia,22 Dic 1941 - 14 Ene 1942
+84,Pearl Harbor y Declaración de Guerra de los Estados Unidos,7 Dic 1941
+85,Batalla de Hong Kong,8 Dic 1941 - 25 Dic 1941
+86,Batalla de Bataan,7 Ene 1942 - 9 Abr 1942
+87,Orden Ejecutiva 9066,19 Feb 1942
+88,Ataque Doolittle a Japón,18 Abr 1942
+89,Batalla del Mar de Coral,4 May 1942 - 8 May 1942
+90,Batalla de Midway,4 Jun 1942 - 7 Jun 1942
+91,Batalla de Stalingrado,23 Ago 1942 - 2 Feb 1943
+92,Conferencia de Casablanca,14 Ene 1943 - 24 Ene 1943
+93,Batalla de Guadalcanal,7 Ago 1942 - 9 Feb 1943
+94,Conferencia de Teherán,28 Nov 1943 - 1 Dic 1943
+95,Batalla de Kursk,5 Jul 1943 - 23 Ago 1943
+96,Batalla de Smolensk (1943),7 Aug 1943 - 2 Sep 1943
+97,Conferencia de Quebec,17 Aug 1943 - 24 Aug 1943
+98,Batalla de las Salomón Orientales,23 Aug 1943 - 25 Aug 1943
+99,Conferencia de El Cairo,22 Nov 1943 - 26 Nov 1943
+100,Conferencia de Teherán,28 Nov 1943 - 1 Dic 1943
+100,La Fuga de Davao,4 Abr 1943
+101,Batalla de Kufra,6 Ene 1941 - 1 Mar 1941
+102,Invasión de África Oriental Italiana,19 Ene 1941 - 16 May 1941
+103,Operación Berlín,22 Ene 1941 - 22 Mar 1941
+104,Conferencia ABC-1,29 Ene 1941 - 30 Mar 1941
+105,Batalla de Henan Sur,30 Ene 1941 - 1 Mar 1941
+106,Operación Sonnenblume,8 Feb 1941 - 6 May 1941
+107,Operación Colossus,10 Feb 1941
+108,Conferencia de Merano,13 Feb 1941 - 14 Feb 1941
+109,Batalla de Giarabub,21 Mar 1941 - 23 Mar 1941
+110,Batalla de Matapán,27 Mar 1941 - 29 Mar 1941
+111,Campañas en el Medio Oriente,2 Abr 1941 - 30 Ago 1941
+112,Sitio de Tobruk,10 Abr 1941 - 27 Nov 1941
+113,Pacto de Neutralidad Soviético-Japonés,13 Abr 1941
+114,Incursión en Bardia,19 Abr 1941 - 20 Abr 1941
+115,Batalla de Shanxi Sur,7 May 1941 - 27 May 1941
+116,Operación Brevity,15 May 1941 - 16 May 1941
+117,Batalla del Estrecho de Dinamarca,24 May 1941
+118,Operación Battleaxe,15 Jun 1941 - 17 Jun 1941
+119,Operación Silver Fox,22 Jun 1941 - 22 Sep 1941
+120,Operación Barbarroja,22 Jun 1941 - 30 Sep 1941
+121,Asedio de Odesa,8 Ago 1941 - 16 Oct 1941
+122,Conferencia de la Carta del Atlántico,9 Ago 1941 - 12 Ago 1941
+123,Convoyes Árticos,21 Ago 1941 - 30 May 1945
+124,Asedio de Leningrado,4 Sep 1941 - 27 Ene 1944
+125,Segunda Batalla de Changsha,6 Sep 1941 - 8 Oct 1941
+126,Primera Conferencia de Moscú,29 Sep 1941 - 1 Oct 1941
+127,Batalla de Moscú,30 Sep 1941 - 7 Ene 1942
+128,Primera Batalla de Járkov,20 Oct 1941 - 24 Oct 1941
+129,Batalla de Sebastopol,30 Oct 1941 - 4 Jul 1942
+130,Operación Crusader,18 Nov 1941 - 14 Dic 1941
+131,Ataque a Pearl Harbor,7 Dic 1941
+132,Invasión de las Islas Filipinas,7 Dic 1941 - 5 May 1942
+133,Invasión de Guam,8 Dic 1941 - 10 Dic 1941
+134,Batalla de Hong Kong,8 Dic 1941 - 25 Dic 1941
+135,Invasión de Malasia y Singapur,8 Dic 1941 - 15 Feb 1942
+136,Batalla de la Isla Wake,11 Dic 1941 - 23 Dic 1941
+137,Batalla de Cabo Bon,13 Dic 1941
+138,Invasión de Birmania,14 Dic 1941 - 26 May 1942
+139,"Campaña de las Indias Orientales Neerlandesas, Borneo",15 Dic 1941 - 1 Abr 1942
+140,Incursión Submarina en Alejandría,19 Dic 1941
+141,Primera Conferencia de Washington,22 Dic 1941 - 14 Ene 1942
+142,Tercera Batalla de Changsha,24 Dic 1941 - 15 Ene 1942
+143,Internamiento de Japoneses Estadounidenses y Japoneses Canadienses,1 Ene 1942 - 1 Abr 1949
+144,Ofensiva de Rzhev-Vyazma y el Bolsón de Demyansk,9 Ene 1942 - 5 May 1942
+145,"Campaña de las Indias Orientales Neerlandesas, Célebes y Molucas",11 Ene 1942 - 31 Jul 1942
+146,Segundo Tiempo Feliz,14 Ene 1942 - 31 Ago 1942
+147,Conferencia de Wannsee,20 Ene 1942
+148,"Campaña de las Indias Orientales Neerlandesas, Java",4 Feb 1942 - 31 Mar 1942
+149,Operación Cerbero,11 Feb 1942 - 13 Feb 1942
+150,"Campaña de las Indias Orientales Neerlandesas, Sumatra",13 Feb 1942 - 28 Mar 1942
+151,Campañas en el Mar Caribe y el Golfo de México,16 Feb 1942 - 1 Ene 1944
+152,Ataque a Darwin,19 Feb 1942
+153,"Bombardeo de Roma, Nápoles y Otras Ciudades",2 Mar 1942 - 30 Sep 1943
+154,"Campaña de las Indias Orientales Neerlandesas, Fase 2",8 Mar 1942 - 4 Mar 1943
+155,Caída de Rangoún,7 Mar 1942 - 6 May 1942
+156,Incidente de Broome,3 Mar 1942
+157,Despliegue de la Fuerza de Tarea 16,8 Mar 1942 - 15 Mar 1942
+158,Campaña de Birmania,12 Mar 1942 - 1 Ago 1945
+159,Campaña de las Islas Aleutianas,3 Jun 1942 - 24 Ago 1943
+160,Operación Barbossa,3 Jun 1942 - 15 Feb 1943
+161,Operación Toenails,7 Jun 1942 - 7 Jun 1942
+162,Campaña de Nueva Guinea,8 Jun 1942 - 25 May 1945
+163,Operación Vigorous,11 Jun 1942 - 16 Jun 1942
+164,Batalla de Midway,4 Jun 1942 - 7 Jun 1942
+165,Campaña de Guadalcanal,7 Ago 1942 - 9 Feb 1943
+166,Batalla de Savo,9 Ago 1942 - 9 Ago 1942
+167,Desembarco Aliado en Madagascar,5 Sep 1942 - 6 Nov 1942
+168,Batalla de Alam Halfa,30 Ago 1942 - 5 Sep 1942
+169,Batalla de Stalingrado,17 Jul 1942 - 2 Feb 1943
+170,Campaña del Golfo de Guinea,18 Sep 1942 - 12 Nov 1942
+171,Desembarco en Fedala,8 Nov 1942 - 18 Nov 1942
+172,Operación Harpoon,11 Jun 1942 - 15 Jun 1942
+173,Operación Torch,8 Nov 1942 - 16 Nov 1942
+174,Batalla de Guadalcanal,15 Nov 1942 - 9 Feb 1943
+175,"Campaña de Birmania, Norte de Arakán",9 Dic 1942 - 4 May 1945
+176,Batalla de Tassafaronga,30 Nov 1942 - 1 Dic 1942
+177,Operación Wintergewitter,12 Dic 1942 - 23 Dic 1942
+178,Segunda Conferencia de Washington,14 Dic 1942 - 24 Dic 1942
+179,Operación Frankton,7 Dic 1942 - 12 Dic 1942
+180,Batalla del Mar del Coral,4 May 1942 - 8 May 1942
+181,Operación Steinbock,21 Ene 1943 - 29 May 1943
+182,"Campaña de Nueva Guinea, Salamaua-Lae",8 Mar 1943 - 16 Mar 1943
+183,Batalla del Ártico,30 Mar 1943 - 24 May 1943
+184,Operación I-Go,5 Apr 1943 - 15 Apr 1943
+185,Campaña de las Islas Salomón,7 Mar 1943 - 21 Feb 1944
+186,Batalla de Wau,29 Jan 1943 - 4 Feb 1943
+187,Operación Ke,21 Feb 1943 - 4 Mar 1943
+188,Operación Gunnerside,16 Feb 1943 - 27 Feb 1943
+189,Batalla de Kasserine Pass,19 Feb 1943 - 25 Feb 1943
+190,Desembarco Aliado en Sicilia,9 Jul 1943 - 17 Aug 1943
+191,Operación Gomorrah,24 Jul 1943 - 30 Jul 1943
+192,Operación Husky,9 Jul 1943 - 17 Aug 1943
+193,Batalla del Golfo de Kula,5 Jul 1943 - 6 Jul 1943
+194,Operación Citadel,5 Jul 1943 - 17 Jul 1943
+195,Batalla de Prokhorovka,12 Jul 1943 - 12 Jul 1943
+196,Operación Avalanche,9 Sep 1943 - 21 Sep 1943
+197,Operación Axis,8 Sep 1943 - 17 Sep 1943
+198,Desembarco de Salerno,9 Sep 1943 - 6 Oct 1943
+199,Operación Jaywick,2 Sep 1943 - 24 Sep 1943
+200,Desembarco de Tarawa,20 Nov 1943 - 23 Nov 1943
+201,Batalla de Makin,20 Nov 1943 - 23 Nov 1943
+202,Campaña de las Islas Gilbert y Marshall,20 Nov 1943 - 6 Dic 1943
+203,Batalla de Leros,12 Nov 1943 - 16 Nov 1943
+204,Operación Galvanic,20 Nov 1943 - 8 Dec 1943
+205,Conferencia de Teherán,28 Nov 1943 - 1 Dic 1943
+206,Batalla de Cabo San Jorge,24 Nov 1943
+207,Batalla de Arawe,15 Dec 1943 - 24 Dec 1943
+208,Batalla del Mar de Filipinas,19 Jun 1944 - 20 Jun 1944
+209,Batalla de Tarawa,20 Nov 1943 - 23 Nov 1943
+210,Batalla de Makin,20 Nov 1943 - 23 Nov 1943
+211,Batalla de Gela,9 Jul 1943 - 10 Jul 1943
+212,Campaña de Nueva Bretaña,23 Dec 1943 - 27 Mar 1944
+213,Batalla de Cisterna,30 Jan 1944 - 2 Feb 1944
+214,Batalla de Anzio,22 Jan 1944 - 5 Jun 1944
+215,Bombardeo de la Abadía de Montecassino,15 Feb 1944 - 18 May 1944
+216,Operación Hailstone,17 Feb 1944 - 18 Feb 1944
+217,Campaña de las Islas del Almirantazgo,29 Feb 1944 - 18 May 1944
+218,Incidente de Port Chicago,17 Jul 1944
+219,"Campaña de Nueva Guinea, Huon Peninsula",22 Mar 1944 - 27 Apr 1944
+220,Operación Ichi-Go,19 Apr 1944 - 31 Dec 1944
+221,Batalla de Kohima,4 Apr 1944 - 22 Jun 1944
+222,Operación Jackpot,24 Apr 1944 - 30 Apr 1944
+223,Batalla del Mar de Bismarck,2 Mar 1943 - 4 Mar 1943
+224,Batalla de Imphal,8 Mar 1944 - 3 Jul 1944
+225,Batalla de la Bolsa de Kamenets-Podolsky,5 Mar 1944 - 15 Apr 1944
+226,Operación Tigerfish,24 Mar 1944 - 4 Apr 1944
+227,Operación Tungsten,3 Apr 1944 - 5 Apr 1944
+228,Batalla de Seelow Heights,16 Apr 1945 - 19 Apr 1945
+229,"Campaña de las Islas Aleutianas, Kiska",15 Aug 1943 - 15 Aug 1943
+230,Batalla de Biak,27 May 1944 - 17 Aug 1944
+231,Operación Dragoon,15 Aug 1944 - 14 Sep 1944
+232,Campaña de Normandía,6 Jun 1944 - 25 Aug 1944
+233,Batalla de Carentan,10 Jun 1944 - 15 Jul 1944
+234,Operación Neptune,6 Jun 1944 - 30 Jun 1944
+235,Batalla de Saipán,15 Jun 1944 - 9 Jul 1944
+236,Operación Bagration,22 Jun 1944 - 19 Aug 1944
+237,Batalla de Cherburgo,6 Jun 1944 - 26 Jun 1944
+238,Conferencia de Bretton Woods,1 Jul 1944 - 22 Jul 1944
+239,Batalla de Guam,21 Jul 1944 - 10 Aug 1944
+240,Conferencia de Dumbarton Oaks,21 Aug 1944 - 7 Oct 1944
+241,Levantamiento de Varsovia,1 Aug 1944 - 2 Oct 1944
+242,Campaña de las Filipinas (1944-1945),20 Oct 1944 - 15 Aug 1945
+243,Batalla de Peleliu,15 Sep 1944 - 27 Nov 1944
+244,Batalla de Angaur,17 Sep 1944 - 22 Sep 1944
+245,Batalla de Leyte,17 Oct 1944 - 31 Dec 1944
+246,Batalla de Leyte Golfo,23 Oct 1944 - 26 Oct 1944
+247,Incidente de Ulithi,20 Nov 1944
+248,Batalla de Metz,27 Sep 1944 - 13 Dec 1944
+249,Ofensiva de las Ardenas,16 Dec 1944 - 25 Jan 1945
+250,Batalla de las Ardenas,16 Dec 1944 - 25 Jan 1945
+251,Operación Bodenplatte,1 Jan 1945
+252,Batalla de Belfort,14 Nov 1944 - 9 Feb 1945
+253,"Campaña de Birmania, Centro de Birmania",12 Jan 1945 - 15 Jul 1945
+254,"Campaña de Birmania, Sur de Arakan",21 Jan 1945 - 9 Apr 1945
+255,Batalla de Hill 170,13 Jan 1945 - 20 Jan 1945
+256,Batalla de Hürtgen Forest,19 Sep 1944 - 10 Feb 1945
+257,Batalla de Iwo Jima,19 Feb 1945 - 26 Mar 1945
+258,Incidente de Friendly Fire de Bari,2 Dec 1943
+259,Campaña de Mindoro,13 Dec 1944 - 15 Apr 1945
+260,Batalla de Monte Castello,24 Nov 1944 - 21 Feb 1945
+261,Batalla de las Colinas de Tiza,3 Mar 1945 - 9 Mar 1945
+262,Incidente del USS Franklin,19 Mar 1945
+263,Batalla de Okinawa,1 Apr 1945 - 22 Jun 1945
+264,Bombardeo de Tokio,10 Mar 1945 - 15 Aug 1945
+265,Operación Ten-Go,6 Apr 1945 - 7 Apr 1945
+266,Batalla de la Bolsa de Ruhr,1 Apr 1945 - 17 Apr 1945
+267,Batalla de Slivice,6 May 1945 - 11 May 1945
+268,Campaña de las Ryukyu,26 Mar 1945 - 2 Jul 1945
+269,Operación Dracula,26 Mar 1945 - 28 Apr 1945
+270,Batalla de Meiktila y Mandalay,20 Feb 1945 - 28 Mar 1945
+271,Batalla del Mar de Java,26 Feb 1945 - 1 Mar 1945
+272,Operación Clarion,22 Feb 1945 - 1 Mar 1945
+273,Batalla de Corregidor,16 Feb 1945 - 26 Feb 1945
+274,Operación Grenade,23 Feb 1945 - 10 Mar 1945
+275,Operación Varsity,24 Mar 1945
+276,Operación Undertone,24 Feb 1945 - 1 Mar 1945
+277,Operación Plunder,23 Mar 1945 - 17 Apr 1945
+278,Campaña de las Filipinas,13 Dec 1944 - 15 Aug 1945
+279,Batalla de Manila,3 Feb 1945 - 3 Mar 1945
+280,Batalla de las Islas Bismarck,17 Dec 1943 - 23 Dec 1943
+281,Batalla de Poljana,15 May 1945 - 25 May 1945
+282,Batalla de la Bolsa de Courland,15 Oct 1944 - 8 May 1945
+283,Operación Judgement,24 Aug 1945
+284,Conferencia de Potsdam,17 Jul 1945 - 2 Aug 1945
+285,Bombardeos atómicos sobre Hiroshima y Nagasaki,6 Aug 1945 - 9 Aug 1945
+286,Anuncio de la rendición de Japón,15 Aug 1945
+287,Declaración de Potsdam,26 Jul 1945
+288,Conferencia de Yalta,4 Feb 1945 - 11 Feb 1945
+289,Batalla de Castle Itter,5 May 1945
+290,"Campaña de Birmania, Centro de Birmania",12 Jan 1945 - 15 Jul 1945
+291,"Campaña de Birmania, Sur de Arakan",21 Jan 1945 - 9 Apr 1945
+292,"Campaña de Birmania, Norte de Arakan",9 Dec 1944 - 9 Apr 1945
+293,"Campaña de Birmania, Mandalay-Pyinmana",8 Mar 1945 - 29 Mar 1945
+294,"Campaña de Birmania, Rangún",3 May 1945 - 6 May 1945
+295,Bombardeo de Tokio,10 Mar 1945 - 15 Aug 1945
+296,Bombardeo de Osaka,13 Aug 1945
+297,Bombardeo de Nagoya,18 Apr 1942 - 18 Apr 1942
+298,Bombardeo de Kobe,16 Mar 1945 - 17 Mar 1945
+299,Operación Starvation,27 Mar 1945 - 1 Aug 1945
+300,Desembarco de Lingayen,9 Jan 1945 - 31 Jan 1945
+301,Avance hacia el Rin,20 Ene 1945 - 25 Mar 1945
+302,Conferencia de Malta,30 Ene 1945 - 3 Feb 1945
+303,Conferencia de Yalta,4 Feb 1945 - 11 Feb 1945
+304,Ofensiva Silesiana y Sitio de Breslavia,8 Feb 1945 - 6 May 1945
+305,Batalla de Iwo Jima,19 Feb 1945 - 26 Mar 1945
+306,Bombardeo de Tokio y otras ciudades,19 Feb 1945 - 10 Ago 1945
+307,Ofensiva del Pomerania Oriental,24 Feb 1945 - 4 Abr 1945
+308,Atravesar el Rin,22 Mar 1945 - 1 Abr 1945
+309,Caída del Ruhr,25 Mar 1945 - 18 Abr 1945
+310,Campaña del Sur de Alemania,28 Mar 1945 - 2 May 1945
+311,Campaña de Okinawa,1 Abr 1945 - 21 Jun 1945
+312,Batalla de Zhijiang,1 Abr 1945 - 30 Jun 1945
+313,Batalla de Viena,2 Abr 1945 - 13 Abr 1945
+314,Levantamiento Georgiano en Texel,6 Abr 1945 - 20 May 1945
+315,Operación Grapeshot y Operación Roast,9 Abr 1945 - 2 May 1945
+316,Campaña de Borneo,11 Abr 1945 - 15 Ago 1945
+317,Batalla de Berlín,16 Abr 1945 - 2 May 1945
+318,Batalla de Rangún,25 Abr 1945 - 6 May 1945
+319,Batallas de Collecchio y Fornovo di Taro,26 Abr 1945 - 29 Abr 1945
+320,"Operaciones Manna, Chowhound y Faust",29 Abr 1945 - 10 May 1945
+321,Ofensiva Estratégica de Praga,6 May 1945 - 11 May 1945
+322,Rendición de Alemania,7 May 1945
+323,Tifón Connie,5 Jun 1945
+324,Preparativos para la invasión de Japón,14 Jul 1945 - 9 Ago 1945
+325,Operación Trinidad y Proyecto Manhattan,16 Jul 1945
+326,Conferencia de Potsdam,16 Jul 1945 - 26 Jul 1945
+327,Bombardeos atómicos de Hiroshima y Nagasaki,6 Ago 1945 - 9 Ago 1945
+328,Ofensiva Estratégica de Manchuria,9 Ago 1945 - 2 Sep 1945
+329,Rendición de Japón,14 Ago 1945 - 2 Sep 1945
+330,Juicios de Núremberg y otros juicios contra Alemania,18 Oct 1945 - 13 Abr 1949
+331,Proceso de Tokio y otros juicios contra Japón,3 May 1946 - 12 Nov 1948
+332,Conferencia de Paz de París,29 Jul 1946 - 15 Oct 1946
+333,Conferencia de Paz de San Francisco,8 Sep 1951
+334,El Tratado de Versalles,28 Jun 1919
