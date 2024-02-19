@@ -1,8 +1,6 @@
 # Trabajo Práctico 2 - NLP
 
-Este repositorio contiene una notebook con el desarrollo del Trabajo Práctico 2 de la materia Procesamiento del Lenguaje Natural, se adjunta además el informe del mismo junto con la resolución del ejercicio 2.
-
-##Consignas
+Este repositorio contiene los archivos necesario para correr el desarrollo del Trabajo Práctico 2 de la materia Procesamiento del Lenguaje Natural. 
 
 ## **Ejercicio 1 - RAG**
 **Crear un chatbot experto en un tema a elección, usando la técnica RAG. Como fuentes de conocimiento se utilizarán al menos las siguientes fuentes:**
@@ -12,9 +10,9 @@ Este repositorio contiene una notebook con el desarrollo del Trabajo Práctico 2
 *  **Base de datos de grafos (Online o local)**
 
 
-`El chatbot se especializa en historia de la Segunda Guerra Mundial`
+`**El chatbot se especializa en historia de la Segunda Guerra Mundial**`
 
-- `Ejercicio 2 - Agentes:`
+## **Ejercicio 2 - Agentes:**
 Realice una investigación respecto al estado del arte de las aplicaciones actuales de agentes inteligentes usando modelos LLM libres.
 Plantee una problemática a solucionar con un sistema multiagente. Defina cada uno de los agentes involucrados en la tarea. Es importante destacar con ejemplos de conversación, la interacción entre los agentes.
 Realice un informe con los resultados de la investigación y con el esquema del sistema multiagente, no olvide incluir fuentes de información.
