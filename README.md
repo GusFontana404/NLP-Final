@@ -10,7 +10,7 @@ Este repositorio contiene los archivos necesario para correr el desarrollo del T
 *  **Base de datos de grafos (Online o local)**
 
 
-`**El chatbot se especializa en historia de la Segunda Guerra Mundial**`
+**`El chatbot se especializa en historia de la Segunda Guerra Mundial`**
 
 ## **Ejercicio 2 - Agentes:**
 Realice una investigación respecto al estado del arte de las aplicaciones actuales de agentes inteligentes usando modelos LLM libres.
@@ -25,7 +25,7 @@ Opcional: Resolución con código de dicho escenario.
 - `Datos` : Carpeta con los archivos PDFs y los datos tabulares utilizados como fuentes de datos
 
 ## Indicaciones
-Para correr el programa es neceario conta con las siguientes dependencias instaladas en el enotorno de trabajo:
+Para correr el programa es necesario contar con las siguientes dependencias instaladas en el enotorno de trabajo:
 - `wikipedia-api`
 - `pdfminer.six`
 - `gdown`
